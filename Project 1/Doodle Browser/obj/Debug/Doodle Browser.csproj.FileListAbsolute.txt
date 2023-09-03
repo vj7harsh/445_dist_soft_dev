@@ -1,0 +1,10 @@
+D:\study\ASU\DSD\Project 1\Doodle Browser\bin\Debug\Doodle Browser.exe.config
+D:\study\ASU\DSD\Project 1\Doodle Browser\bin\Debug\Doodle Browser.exe
+D:\study\ASU\DSD\Project 1\Doodle Browser\bin\Debug\Doodle Browser.pdb
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle Browser.csproj.AssemblyReference.cache
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle_Browser.Doodle.resources
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle_Browser.Properties.Resources.resources
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle Browser.csproj.GenerateResource.cache
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle Browser.csproj.CoreCompileInputs.cache
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle Browser.exe
+D:\study\ASU\DSD\Project 1\Doodle Browser\obj\Debug\Doodle Browser.pdb
